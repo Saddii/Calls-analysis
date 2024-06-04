@@ -1,1 +1,3 @@
 # Calls-analysis
+
+This report presents a comprehensive analysis of phone calls in the context of new product launches, considering various price groups and product packages. The analysis covers historical data from 2009, identifying key trends and changes in the number of phone calls. Special emphasis is placed on the years when new products were introduced and their impact on the volume of calls. The report employs two forecasting models – linear regression and XGBoost – to predict the number of calls for the year 2024. Comparing the models' predictions with actual data allows for an assessment of their accuracy and effectiveness. The report concludes with recommendations for optimizing resources and customer service strategies based on the forecasted data.  
